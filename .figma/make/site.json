@@ -1,0 +1,10 @@
+{
+  "description": "Connect with nearby service providers by posting a task, comparing bids, and chatting before you hire. NeedNow makes local help easier to find for requesters and providers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
